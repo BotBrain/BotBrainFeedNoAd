@@ -4,7 +4,7 @@
 首先在 `Podfile` 文件中添加：
 
 ```
-pod 'BotBrainFeed', '~>1.2.8'
+pod 'BotBrainFeedNoAd', '~>1.2.8'
 ```
 
 然后在终端 `cd` 到 `Podfile` 文件所在路径，执行 `pod install` 。
