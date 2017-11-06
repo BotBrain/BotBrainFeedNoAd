@@ -1,5 +1,10 @@
 # BotBrainFeedNoAd
 
+## 公告
+
+为统一SDK命名规范，SDK自v1.2.9更名为botbrain_feed_sdk_ios_lite。后续版本将在 [botbrain_feed_sdk_ios_lite](https://github.com/BotBrain/botbrain_feed_sdk_ios_lite) 更新，如果您使用的老版本请及时更新。
+
+
 ##### 1.CocoaPods集成
 首先在 `Podfile` 文件中添加：
 
